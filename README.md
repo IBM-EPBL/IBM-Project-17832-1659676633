@@ -1,4 +1,6 @@
 ## AI-POWERED NUTRITION ANALYZER FOR FITNESS ENTHUSIASTS :grapes:
+### GOAL 
+Creating an AI-Powered Nutrition Abalyzer for Fitness Enthusiasists
 
 ### INTRODUCTION
 
