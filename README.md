@@ -2,7 +2,7 @@
 ### GOAL 
 Creating an AI-Powered Nutrition Abalyzer for Fitness Enthusiasists
 
-![](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling.gif)
+![](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif)
 
 ### INTRODUCTION
 
