@@ -3,7 +3,7 @@
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists
 
 
-<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=450 width=450 align="right">
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=300 width=300 align="right">
 
 ### PROBLEM STATEMENT
 
