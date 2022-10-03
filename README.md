@@ -1,20 +1,6 @@
 ## AI-POWERED NUTRITION ANALYZER FOR FITNESS ENTHUSIASTS  :muscle: :grapes:
 ### GOAL 
-return DefaultTextStyle(
-  style: const TextStyle(
-    fontSize: 20.0,
-  ),
-  child: AnimatedTextKit(
-    animatedTexts: [
-      WavyAnimatedText('Hello World'),
-      WavyAnimatedText('Look at the waves'),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
+
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=450 width=1100 align ="center">
 
