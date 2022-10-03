@@ -1,7 +1,7 @@
 ## AI-POWERED NUTRITION ANALYZER FOR FITNESS ENTHUSIASTS  :muscle: :grapes:
 ### GOAL 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists
-<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=300  align ="center">
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=700 align ="center">
 
 
 
