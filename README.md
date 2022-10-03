@@ -1,4 +1,4 @@
-## AI-Powered Nutrition Analyzer For Fitbess Enthusiasits :muscle: :grapes:
+## AI-Powered Nutrition Analyzer For Fitness Enthusiasits :muscle: :grapes:
 ### GOAL 
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
