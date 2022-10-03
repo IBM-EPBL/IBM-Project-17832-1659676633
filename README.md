@@ -1,4 +1,4 @@
-## AI-POWERED NUTRITION ANALYZER FOR FITNESS ENTHUSIASTS  :muscle: :grapes:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Ai+-+Powered+Nutrition+Analyzer)](https://git.io/typing-svg) :muscle: :grapes:
 ### GOAL 
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
