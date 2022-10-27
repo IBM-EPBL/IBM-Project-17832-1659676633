@@ -6,7 +6,7 @@
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
-| -------------------------------------------------------------------------------------------------------------------------- |
+
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=300 width=300 align="right">
 
 
