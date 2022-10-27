@@ -6,7 +6,7 @@
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
-
+| ------------------------------------------------------------------------------------- |
 
 
 
