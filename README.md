@@ -1,8 +1,8 @@
-## AI-Powered Nutrition Analyzer For Fitness Enthusiasits 
+# AI-Powered Nutrition Analyzer For Fitness Enthusiasits 
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=450 width=1100 align ="center">
 
-### GOAL 
+## GOAL 
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
@@ -10,7 +10,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
 
-###TEAM MEMBERS
+## TEAM MEMBERS
    
     1. Sandhiya K[TL] - 420419104042
     
@@ -21,7 +21,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     4. Sandhya K[TM3] - 420419104303
     
     
-#  INTRODUCTION
+##  INTRODUCTION
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
@@ -38,7 +38,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 
 
-#  PROBLEM STATEMENT
+##  PROBLEM STATEMENT
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
