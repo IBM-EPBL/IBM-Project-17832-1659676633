@@ -10,7 +10,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
 
-## TEAM MEMBERS
+## ** TEAM MEMBERS
    
     1. Sandhiya K[TL] - 420419104042
     
@@ -21,7 +21,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     4. Sandhya K[TM3] - 420419104303
     
     
-##  INTRODUCTION
+##  ** INTRODUCTION
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
