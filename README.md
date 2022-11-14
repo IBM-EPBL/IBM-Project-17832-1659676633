@@ -104,6 +104,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="center">
 
+
 **Create a Project folder which contains files as shown below**
 
     -Dataset folder contains the training and testing images for training our model.
@@ -114,3 +115,11 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     -Uploads folder will have the uploaded images(which are already tested).
     -Sample_images will have the images which are used to test or upload.
     -Training folder contains the trained model file.
+    
+    
+    
+##  TECHNICAL ARCHITECTURE
+
+
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/architecture.png" height=275 width=300 align="center">
+
