@@ -102,7 +102,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
  
  ##  PROJECT STRUCTURE
 
-<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="left">
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="center">
 
 **Create a Project folder which contains files as shown below**
 
