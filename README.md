@@ -38,7 +38,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 
 
-###* * PROBLEM STATEMENT
+# #PROBLEM STATEMENT
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
