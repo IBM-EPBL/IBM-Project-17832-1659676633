@@ -33,9 +33,12 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     different characteristics like colour, shape, texture etc. Here the user can capture the images of different 
     fruits and then the image will be sent the trained model. The model analyses the image and detect the nutrition 
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
+    
+    
 
 
-###PROBLEM STATEMENT
+
+###* * PROBLEM STATEMENT
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
