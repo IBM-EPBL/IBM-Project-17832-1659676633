@@ -122,3 +122,11 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/architecture.png" height=1000 width=1500 align ="left">
 
+
+## PROJECT WORKFLOW
+
+  ⦿ Ideation phase
+      
+      [Problem Statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/
+      Ideation%20Phase/Brainstroming-Idea%20Generation-Prioritization.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-                 1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
+
