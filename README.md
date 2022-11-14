@@ -121,5 +121,5 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 ##  TECHNICAL ARCHITECTURE
 
 
-<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/architecture.png" height=275 width=300 align="center">
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/architecture.png" height=1000 width=1000 align="center">
 
