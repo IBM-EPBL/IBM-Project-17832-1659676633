@@ -11,6 +11,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 
 ###<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">TEAM MEMBERS
+   
     1. Sandhiya K[TL] - 420419104042
     
     2. Lavanyagowri M[TM1] -420419104031
