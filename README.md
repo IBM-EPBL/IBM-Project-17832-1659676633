@@ -10,7 +10,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
 
-## ** TEAM MEMBERS
+##  TEAM MEMBERS
    
     1. Sandhiya K[TL] - 420419104042
     
@@ -21,7 +21,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     4. Sandhya K[TM3] - 420419104303
     
     
-##  ** INTRODUCTION
+##  INTRODUCTION
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
@@ -35,6 +35,16 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
     
     
+##  PROJECT OBJECTIVE
+**By the end of this project you will**
+
+    ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
+
+    ➼ Gain a broad understanding of image data.
+
+    ➼ Know how to pre-process/clean the data using different data preprocessing techniques.
+
+    ➼ Know how to build a web application using Flask framework.
 
 
 
@@ -52,3 +62,39 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     fruits are allergic to some consumers based on their medical condition. Which they need to identify before consuming.
     Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
     as they have no prior knowledge about them.
+
+##  PROJECT FLOW
+
+      User interacts with the UI (User Interface) to upload the image as input
+
+      Depending on the different gesture inputs different operations are applied to the input image.
+
+      Once model analyses the gesture, the prediction with operation applied on image is showcased on the UI.
+
+**To accomplish this, we have to complete all the activities and tasks listed below**
+
+    ➼ Data Collection.
+
+        ⦿ Collect the dataset or Create the dataset
+
+    ➼ Data Preprocessing.
+
+        ⦿ Import the ImageDataGenerator library
+        ⦿ Configure ImageDataGenerator class
+        ⦿ Apply ImageDataGenerator functionality to Trainset and Testset
+
+    ➼ Model Building
+
+        ⦿ Import the model building Libraries
+        ⦿ Initializing the model
+        ⦿ Adding Input Layer\
+        ⦿ Adding Hidden Layer
+        ⦿ Adding Output Layer
+        ⦿ Configure the Learning Process
+        ⦿ Training and testing the model
+        ⦿ Save the Model
+
+    ➼ Application Building
+
+        ⦿ Create an HTML file
+        ⦿ Build Python Code
