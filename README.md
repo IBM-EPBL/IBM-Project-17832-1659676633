@@ -101,10 +101,10 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
         
  
  ##  PROJECT STRUCTURE
- 
- **Create a Project folder which contains files as shown below**
 
-<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="right">
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="left">
+
+**Create a Project folder which contains files as shown below**
 
     -Dataset folder contains the training and testing images for training our model.
     -We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
