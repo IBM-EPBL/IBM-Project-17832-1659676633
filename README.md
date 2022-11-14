@@ -124,3 +124,54 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 ## PROJECT WORKFLOW
 
+       ➼ Ideation phase
+         [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
+        
+         [Brainstroming- Idea Generation] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Brainstrom%20and%20Prioritization.pdf]
+         
+         [Empathy Map Canvas] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Empathy%20Map.pdf]
+          
+         [Literature Survey] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Literature%20survey.pdf]
+          
+          
+       ➼ Project Design Phase – I
+       
+         [Problem Solution Fit] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/
+         Project%20Design%20and%20Planning/Project%20Design%20Phase%20-1/Problem%20Solution%20Fit.pdf]
+       
+         [Proposed Solution] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project
+         %20Design%20and%20Planning/Project%20Design%20Phase%20-1/Proposed%20Solution.pdf]
+       
+         [Solution Architecture] - [https://github.com/IBM-EPBL/IBM-Project-17832-   1659676633/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%20-1/Solution%20Architecture.pdf]
+         
+      ➼ Project Design Phase – II
+         
+         [Data Flow Diagrams] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design
+         %20and%20Planning/Project%20Design%20Phase%20-2/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf]
+         
+         [Solution Requirement] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design
+         %20and%20Planning/Project%20Design%20Phase%20-2/Solution%20Requirements.pdf]
+         
+         [Technology Stack] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and
+         %20Planning/Project%20Design%20Phase%20-2/Technology%20Stack.pdf]
+          
+         [Customer Journey Map] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%
+         20and%20Planning/Project%20Design%20Phase%20-2/Customer%20Journey.pdf]
+         
+      ➼ Project Planning Phase
+      
+         [Prepare Milestone & Activity List] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Project%20Planning/Project%20Planning.pdf]
+          
+         [Sprint Delivery Plan] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf]
+         
+      ➼ Project Development Phase
+       
+         [Project Development - Delivery Of Sprint-1] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/tree/main/Project%20Development%20Phase/Sprint%201]
+         
+         [Project Development - Delivery Of Sprint-2] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/tree/main/Project%20Development%20Phase/Sprint%202]    
+             
+         [Project Development - Delivery Of Sprint-3]- [https://github.com/IBM-EPBL/IBM-Project-17832-
+         1659676633/tree/main/Project%20Development%20Phase/Sprint%203]
+          
+         [Project Development - Delivery Of Sprint-4] - []
+
