@@ -75,37 +75,36 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
     ➼ Data Collection.
 
-        ⦿ Collect the dataset or Create the dataset
+       Collect the dataset or Create the dataset
 
     ➼ Data Preprocessing.
 
-        ⦿ Import the ImageDataGenerator library
-        ⦿ Configure ImageDataGenerator class
-        ⦿ Apply ImageDataGenerator functionality to Trainset and Testset
+        Import the ImageDataGenerator library
+        Configure ImageDataGenerator class
+        Apply ImageDataGenerator functionality to Trainset and Testset
 
     ➼ Model Building
 
-        ⦿ Import the model building Libraries
-        ⦿ Initializing the model
-        ⦿ Adding Input Layer\
-        ⦿ Adding Hidden Layer
-        ⦿ Adding Output Layer
-        ⦿ Configure the Learning Process
-        ⦿ Training and testing the model
-        ⦿ Save the Model
+        Import the model building Libraries
+        Initializing the model
+        Adding Input Layer\
+        Adding Hidden Layer
+        Adding Output Layer
+        Configure the Learning Process
+        Training and testing the model
+        Save the Model
 
     ➼ Application Building
 
-        ⦿ Create an HTML file
-        ⦿ Build Python Code
+        Create an HTML file
+        Build Python Code
         
  
  ##  PROJECT STRUCTURE
  
  **Create a Project folder which contains files as shown below**
 
-
-![image](https://user-images.githubusercontent.com/70817219/194914420-9ef53158-9413-447b-a7f3-846d5ed567cb.png)
+<img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
     -Dataset folder contains the training and testing images for training our model.
     -We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
