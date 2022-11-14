@@ -98,3 +98,20 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
         ⦿ Create an HTML file
         ⦿ Build Python Code
+        
+ 
+ ##  PROJECT STRUCTURE
+ 
+ **Create a Project folder which contains files as shown below**
+
+
+![image](https://user-images.githubusercontent.com/70817219/194914420-9ef53158-9413-447b-a7f3-846d5ed567cb.png)
+
+    -Dataset folder contains the training and testing images for training our model.
+    -We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
+    -we need the model which is saved and the saved model in this content is a nutrition.h5
+    -templates folder contains home.html, image.html, imageprediction.html pages.
+    -Statis folder had the css and js files which are necessary for styling the html page and for executing the actions.
+    -Uploads folder will have the uploaded images(which are already tested).
+    -Sample_images will have the images which are used to test or upload.
+    -Training folder contains the trained model file.
