@@ -35,7 +35,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
     
 
-<h2>🎈PROJECTOBJECTIVE:
+<h2>🎈PROJECTOBJECTIVE:</h2>
 
 **By the end of this project you will**
 
