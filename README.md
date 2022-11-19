@@ -9,6 +9,9 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/rr25J_hu1L8)
+
+
 
 <h2>👩🏼‍🤝‍👩🏼TEAM MEMBERS$</h2>
   
