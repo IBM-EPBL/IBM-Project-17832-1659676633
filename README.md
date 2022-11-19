@@ -21,7 +21,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     4. Sandhya K[TM3] - 420419104303
     
     
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">INTRODUCTION
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>INTRODUCTION</h1>
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
@@ -35,7 +35,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
     
     
-##  PROJECT OBJECTIVE
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT OBJECTIVE</h1>
 **By the end of this project you will**
 
     ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
@@ -48,7 +48,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 
 
-##  PROBLEM STATEMENT
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROBLEM STATEMENT</h1>
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
@@ -63,7 +63,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
     as they have no prior knowledge about them.
 
-##  PROJECT FLOW
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT FLOW</h1>
 
       User interacts with the UI (User Interface) to upload the image as input
 
@@ -100,7 +100,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
         Build Python Code
         
  
- ##  PROJECT STRUCTURE
+ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT STRUCTURE</h1>
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="center">
 
@@ -118,11 +118,11 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     
     
     
-##  TECHNICAL ARCHITECTURE
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>TECHNICAL ARCHITECTURE</h1>
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/solutionarchitecture.png" height=450 width=1100 align ="left">
 
-## PROJECT WORKFLOW
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT WORKFLOW</h1>
 
        ➼ Ideation phase
          [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
