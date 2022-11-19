@@ -2,7 +2,11 @@
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=450 width=1100 align ="center">
 
-## GOAL 
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156}GOAL:$</h2></div>
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
@@ -10,7 +14,11 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
 
-##  TEAM MEMBERS
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156}TEAM MEMBERS$</h2></div>
    
     1. Sandhiya K[TL] - 420419104042
     
@@ -22,10 +30,10 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     
     
 <div>
- <h1><picture>
+ <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h1></div>
+</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
@@ -38,8 +46,13 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     fruits and then the image will be sent the trained model. The model analyses the image and detect the nutrition 
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
     
-    
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT OBJECTIVE</h1>
+
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
+
 **By the end of this project you will**
 
     ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
@@ -51,8 +64,11 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     ➼ Know how to build a web application using Flask framework.
 
 
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROBLEM STATEMENT</h1>
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROBLEM STATEMENT:$</h2></div>
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
@@ -67,7 +83,12 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
     as they have no prior knowledge about them.
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT FLOW</h1>
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROJECT FLOW:$</h2></div>
+
 
       User interacts with the UI (User Interface) to upload the image as input
 
@@ -104,7 +125,12 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
         Build Python Code
         
  
- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT STRUCTURE</h1>
+ <div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROJECT STRUCTURE:$</h2></div>
+
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="center">
 
@@ -121,12 +147,19 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     -Training folder contains the trained model file.
     
     
-    
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>TECHNICAL ARCHITECTURE</h1>
+ <div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} TECHNICAL ARCHITECTURE:$</h2></div>   
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/solutionarchitecture.png" height=450 width=1100 align ="left">
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROJECT WORKFLOW:$</h2></div>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"><h1>PROJECT WORKFLOW</h1>
 
        ➼ Ideation phase
          [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
