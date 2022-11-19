@@ -51,7 +51,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤"  width="32" height="32">
-</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
+</picture>$\color[RGB]{168,109,156} PROJECTOBJECTIVE:$</h2></div>
 
 **By the end of this project you will**
 
@@ -68,7 +68,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture>$\color[RGB]{168,109,156} PROBLEM STATEMENT:$</h2></div>
+</picture>$\color[RGB]{168,109,156} PROBLEM  STATEMENT:$</h2></div>
 
       The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
     stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
