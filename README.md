@@ -21,7 +21,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     4. Sandhya K[TM3] - 420419104303
     
    
-<h2>👀INTRODUCTION<h2>
+<h2>👀INTRODUCTION</h2>
 
       Food ,is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
