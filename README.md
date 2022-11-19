@@ -22,10 +22,10 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     
     
 <div>
- <h2><picture>
+ <h1><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
+</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h1></div>
 
       Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
     new dietary assessment and nutrition analysis tools enable more opportunities to help people understand 
