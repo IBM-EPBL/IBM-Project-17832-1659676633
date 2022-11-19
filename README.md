@@ -1,4 +1,4 @@
-# AI-Powered Nutrition Analyzer For Fitness Enthusiasits 
+# AI-Powered Nutrition Analyzer For Fitness Enthusiasits  👋
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/banner.png" height=450 width=1100 align ="center">
 
