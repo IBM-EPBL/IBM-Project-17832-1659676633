@@ -155,6 +155,8 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 </picture>$\color[RGB]{168,109,156} TECHNICAL ARCHITECTURE:$</h2></div>   
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/solutionarchitecture.png" height=450 width=1100 align ="left">
+
+
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
