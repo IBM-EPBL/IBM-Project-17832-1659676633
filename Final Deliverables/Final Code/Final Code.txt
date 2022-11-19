@@ -1,0 +1,280 @@
+Home.html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="prereq.css">
+    <link rel="stylesheet" href="demo.css">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/demo.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/prereq.css')}}">
+   
+    <title>Nutrino</title>
+    
+  </head>
+  <body>
+    <!-- ----------------------- Navbar section ------------------------------------------------->
+    <div class="header">
+      <img class="header-logo" src="{{url_for('static', filename='images/logo.svg')}}" alt ="no" >      
+      <div class="list-nav mobile-nav-toggle">         
+       
+          
+           <a class ="nav-link hover-underline-animation link"  href ="/">Home</a>
+          <a class ="nav-link hover-underline-animation link" href ="image">Prediction</a>          
+          <a class ="nav-link hover-underline-animation link" href ="manual"> Blogs</a>
+          </div>
+    </div> 
+   <!-------------------------- container 1---------------------------------------------------------------->
+   <div class="hero-container ">
+    <div class="intro">
+    <p class="hello">Nutrino!</p>
+    <p class="name">Nothing can be unnoticed!</p>
+    <p class="pcontent">Know the Nutritional value of your food in few seconds and maintain healthy diet..!</p>
+    <button type ="button" class="button" onclick="location.href='./image';"><p>Get Started!</p> </button>
+    </div>
+    
+      <img class="avatar" src="{{url_for('static', filename='images/food1.jpg')}}" alt ="no" >
+    
+   </div>
+<!-- ---------------------------- container 2---------------------------- -->
+
+<div class="hero-container conttwo">
+  
+  <img class="avatar avatartwo" src="{{url_for('static', filename='images/food3.jpg')}}" alt ="no" >
+  <div class="intro tin">
+  
+  <p class="hello twop">How we will help you?</p>
+  <p class="name tp">Are you confused about your daily Nutritional intake...?<br>
+    Here we are help you out from this Problem.Upload Your food image in our website to find their Nutritional Content<br>
+    For more read our User Manual.
+    
+    </p>
+  </div>
+  
+  
+ </div>
+<!-- ----------------------- container 3------------------------------------ -->
+<div class="hero-container ">
+  <div class="intro tin introthree">
+  
+    <p class="hello twop">What you will gain?</p>
+    <p class="name tp">By knowing  your daily Nutritional intake,you can manage your Diet Plan and can be free from worrying about Weight gain,Weight loss and extra..extra problems you have faced due to unhealthy Diet Plan <br>
+    You can Enjoy your Life!
+      
+      </p>
+    </div>
+  
+    <img class="avatar" src="{{url_for('static', filename='images/exe.jpg')}}" alt ="no" >
+  
+ </div>
+   <!-- ------------------------------------------------------------------------------------- -->
+   <div class="footbar">
+    <div class="footer">
+    <div class="items">
+
+ </div>  
+</div>
+</div>
+  
+  
+  
+  </body>
+</html>
+
+
+
+
+Image.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI based analyzer for Fitness Enthusiasts </title>
+    <link rel="stylesheet" href="./demo2.css">
+    <link rel="stylesheet" href="./prereq.css">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/demo2.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/prereq.css')}}">
+</head>
+<body>
+    <!---------------------------------------------------- -->
+    <div class="header">
+        <img class="header-logo" src="{{url_for('static', filename='images/logo.svg')}}"alt ="no" >      
+        <div class="list-nav mobile-nav-toggle">         
+         
+            
+             <a class ="nav-link hover-underline-animation link"  href ="/">Home</a>
+            <a class ="nav-link hover-underline-animation link" href ="image"> Prediction</a>          
+            <a class ="nav-link hover-underline-animation link" href ="manual"> Blogs</a>
+            </div>
+      </div> 
+    <!-- ---------------------------------------------------------------- -->
+    <main id="classify-main">
+    <div class ="imageclassify">
+        <div class ="sideimage">
+            <img class="side"  src="{{url_for('static', filename='images/food2.jpg')}}" alt ="no" > 
+        </div>
+        <div class="classifysection">
+           <p class="classpara"> Choose an image</p> 
+           <div class="bt">
+           <div class="buttonsection">       
+            <button class="primary-button button">Choose</button>
+            <img src="" alt="" id="image-viewer">
+            <button class="secondary-button button">Classify</button>
+        </div>
+        </div>  
+        </div>
+    </div>
+    <div id="output">
+        <h3 class="output">Output</h3>
+        <p class ="outputdes">Food is classified as:</p>
+        <div id="output-wrapper">
+            <p id="output-result"></p>
+            <p id="output-api-result"></p>
+       </div>
+   </div>
+</main>
+<div class="footbar">
+
+</div>
+
+
+
+</body>
+<script src="{{url_for('static', filename='js/app.js')}}"></script>
+</html>
+
+
+
+
+Manual.html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="prereq.css">
+    <link rel="stylesheet" href="demo.css">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/demo.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/prereq.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/manual.css')}}">
+   
+    <title>Nutrino</title>
+    
+  </head>
+  <body>
+    <!-- ----------------------- Navbar section ------------------------------------------------->
+    <div class="header">
+      <img class="header-logo" src="{{url_for('static', filename='images/logo.svg')}}" alt ="no" >      
+      <div class="list-nav mobile-nav-toggle">         
+       
+          
+           <a class ="nav-link hover-underline-animation link"  href ="/">Home</a>
+          <a class ="nav-link hover-underline-animation link" href ="image">Prediction</a>          
+          <a class ="nav-link hover-underline-animation link" href ="manual"> Blogs</a>
+          </div>
+    </div> 
+   <!-------------------------- container 1 ---------------------------------------------------------------->
+  <div class ="manual">
+   <h1>GUIDE</h1>
+   <p class="manualpara">
+    1.GO to Prediction Page <br>
+    2.Click Upload image<br>
+    3.Click Classify Button<br> 
+    4.Prediction Will be displayed on the same Page<br>
+   </p>
+  </div>
+   <!-- ------------------------------------------------------------------------------------- -->
+   <div class="footbar">
+    <div class="footer">
+    <div class="items">
+
+ </div>  
+</div>
+</div>
+  
+  
+  
+  </body>
+</html>
+
+
+
+App.py
+
+from flask import Flask,render_template,request
+import os
+import numpy as np
+from keras.models import load_model
+from keras_preprocessing import image
+import requests
+from werkzeug.utils import secure_filename
+
+app = Flask(__name__,template_folder="templates")
+
+model = load_model('nutrition.h5')
+
+print('loaded model from disk')
+
+app.config['IMAGE_UPLOADS'] = "uploads/"
+@app.route('/')
+def home():
+    return render_template("Home.html")
+@app.route('/image' ,methods=['Get','Post'])
+def image1():
+    return render_template("image.html")
+@app.route('/manual' ,methods=['Get','Post'])
+def manual():
+    return render_template("manual.html")
+
+@app.route('/predict',methods=['Get','Post'])
+def launch():
+    f = request.files['file']
+    filename = secure_filename(f.filename)
+    basedir =  os.path.abspath(os.path.dirname(__file__))
+    f.save(os.path.join(basedir,app.config["IMAGE_UPLOADS"],filename))
+    p = "uploads/"+filename
+    img = image.load_img(p,grayscale=False,target_size=(64,64))
+    x= image.img_to_array(img)
+    x =np.expand_dims(x,axis= 0)
+    pred =model.predict(x)
+    pred = pred.astype('int32')
+    n = np.array(pred[0])
+    s = np.where(n==1)
+    index= ['APPLE','BANANA','ORANGE','PINEAPPLE','WATERMELON'] 
+    n=int(s[0])
+    result=(index[n])
+    apiResult=nutrition(result)
+    final_result = {
+            "result" : result, 
+            "apiResult" : apiResult
+        }
+    return final_result
+
+def nutrition(index):
+    url = "https://calorieninjas.p.rapidapi.com/v1/nutrition"
+    querystring = {"query":index}
+    headers = {
+	"X-RapidAPI-Key": "7c2fb6a502msh4e99d771797d074p173659jsnf288c18cf37c",
+	"X-RapidAPI-Host": "calorieninjas.p.rapidapi.com"
+    }
+    # response = requests.request("GET", url, headers=headers, params=querystring)
+    # return response.text
+    
+    response = requests.request("GET", url="https://calorieninjas.p.rapidapi.com/v1/nutrition", headers =
+                                {
+        'x-rapidapi-key': "5d797ab107mshe668f26bd044e64p1ffd34jsnf47bfa9a8ee4",
+        'x-rapidapi-host': "calorieninjas.p.rapidapi.com"
+        }, params= {"query":index} )
+    print(response.text)     
+    return response.json()['items']
+    
+    
+    
+
+if __name__== "__main__":
+    app.run(debug=False)
