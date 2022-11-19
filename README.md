@@ -39,7 +39,7 @@ Demo Link : https://youtu.be/rr25J_hu1L8
     based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
     
 
-<h2>🎈PROJECTOBJECTIVE:</h2>
+<h2>🎈PROJECT OBJECTIVE:</h2>
 
 **By the end of this project you will**
 
