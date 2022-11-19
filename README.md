@@ -9,7 +9,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
-[![Watch the video](https://youtu.be/rr25J_hu1L8)
+
 
 
 
@@ -23,7 +23,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     
     4. Sandhya K[TM3] - 420419104303
     
-   
+<video src='https://youtu.be/rr25J_hu1L8' width=180/>   
 <h2>👀INTRODUCTION</h2>
 
       Food ,is essential for human life and has been the concern of many healthcare conventions. Nowadays 
