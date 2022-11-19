@@ -132,6 +132,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 </picture>$\color[RGB]{168,109,156} PROJECT STRUCTURE:$</h2></div>
 
 
+
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/image2.png" height=275 width=300 align="center">
 
 
