@@ -129,7 +129,8 @@ Demo Link : https://youtu.be/rr25J_hu1L8
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/solutionarchitecture.png" height=450 width=1100 align ="left">
 
 
- <h2>😅PROJECT WORKFLOW:</h2>
+
+<h2>😅PROJECT WORKFLOW:</h2>
 
 
        ➼ Ideation phase
