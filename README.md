@@ -6,7 +6,7 @@
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture>$\color[RGB]{168,109,156}GOAL:$</h2></div>
+</picture>$\color[RGB]{168,109,156}❤GOAL:$</h2></div>
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
