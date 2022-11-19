@@ -22,7 +22,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     3. Sathiya Priya S[TM2] - 420419104046
     
     4. Sandhya K[TM3] - 420419104303
-    
+   <video src="https://youtu.be/rr25J_hu1L8"></video> 
  
 <h2>👀INTRODUCTION</h2>
 
