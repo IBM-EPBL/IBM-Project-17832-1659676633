@@ -101,7 +101,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
         Build Python Code
         
  
- <h2>🎊 PROJECT STRUCTURE:</h2>
+ <h2>👻 PROJECT STRUCTURE:</h2>
 
 
 
