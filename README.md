@@ -23,7 +23,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
     
     4. Sandhya K[TM3] - 420419104303
     
-<video src='https://youtu.be/rr25J_hu1L8' width=180/>   
+ 
 <h2>👀INTRODUCTION</h2>
 
       Food ,is essential for human life and has been the concern of many healthcare conventions. Nowadays 
@@ -181,4 +181,4 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
          1659676633/tree/main/Project%20Development%20Phase/Sprint%203]
           
          [Project Development - Delivery Of Sprint-4] - []
-
+<video src='https://youtu.be/rr25J_hu1L8' width=180/>  
