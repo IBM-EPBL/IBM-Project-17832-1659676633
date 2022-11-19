@@ -125,7 +125,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/solutionarchitecture.png" height=450 width=1100 align ="left">
 
 
- PROJECT WORKFLOW:</h2>
+ <h2>😅PROJECT WORKFLOW:</h2>
 
 
        ➼ Ideation phase
