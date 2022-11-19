@@ -5,7 +5,7 @@
 <h2>❤ GOAL:</h2>
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
-
+Demo Link : https://youtu.be/rr25J_hu1L8
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
