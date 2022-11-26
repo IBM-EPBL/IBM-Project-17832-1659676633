@@ -6,7 +6,7 @@
 
 Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the Nutrition content present in the food
 
-Demo Link : https://youtu.be/rr25J_hu1L8
+Demo Link : https://youtu.be/udMPyopCs9M
 
 <img src="https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Gif/cycling_.gif" height=275 width=300 align="right">
 
@@ -186,4 +186,4 @@ Demo Link : https://youtu.be/rr25J_hu1L8
          
          
 <h2>👏DEMO LINK:</h2>
-https://youtu.be/rr25J_hu1L8
+https://youtu.be/udMPyopCs9M
